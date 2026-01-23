@@ -114,3 +114,12 @@ class NQueens
 ## Resources
 1. GeeksforGeeks: Introduction to Backtracking
 2. "The Algorithm Design Manual" by Steven S. Skiena
+
+
+
+# Backtracking vs. Branch and Bound
+
+## Introduction
+**Backtracking** and **Branch and Bound** are algorithmic techniques used to solve problems by exploring potential solutions. While they share similarities, they differ in their approaches and applications.
+
+### Backtrack
